@@ -1,0 +1,3 @@
+What is hash?
+hash = Hash.new {|hash, key| hash[key] = [] }
+
